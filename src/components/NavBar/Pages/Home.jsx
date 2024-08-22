@@ -1,6 +1,6 @@
 import React, { Fragment } from 'react'
 import Banner from '../../Banner/Banner'
-import Banner2 from '../../Banner/Banner2'
+// import Banner2 from '../../Banner/Banner2'
 import CarouselWeb from '../../Carousel/CarouselWeb'
 import MealsSummary from '../../MealsSummary/MealsSummary'
 
