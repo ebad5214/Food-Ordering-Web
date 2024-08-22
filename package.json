@@ -1,5 +1,6 @@
 {
   "name": "food-odering-app",
+  "homepage": "https://ebad5214.github.io/Food-Ordering-Web"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
